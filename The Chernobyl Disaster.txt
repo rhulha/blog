@@ -3,11 +3,11 @@ The Chernobyl Disaster
 
 First let’s start with some basics:
 
-Reactor nuclear fission is the split of a large atom into smaller ones using neutrons.
+Nuclear fission is the splitting of large atoms into smaller ones using neutrons.
 This releases a very large amount of energy and new neutrons.
 A nuclear chain reaction occurs when one single nuclear fission causes an average of one or more subsequent nuclear fissions.
 Nuclear power plants use the reaction energy to turn water into steam and the steam makes generators spin and they then generate power for everyone to use.
-Water needs to be pumped into the reactor not only to create steam but also to cool the radioactive material and keep it from exploding.
+Water needs to be pumped into the reactor not only to create steam but also to cool the radioactive material and keep it from turning into liquid metal.
 Nuclear reaction is controlled by control rods which increase or decrease the fission reaction.
 
 Construction for the first of four light water graphite moderated reactors for the Chernobyl nuclear power plant began in August 1972.
@@ -21,7 +21,7 @@ Reactor Nr. 4 was a good little reactor and did its job admirably for 2½ years.
 However there was one little problem... 
 
 In normal operation a significant fraction of the power from a nuclear reactor is derived not only from fission but also from the decay heat.
-This heat continues for some time after the chain reaction is stopped (for example following an emergency shutdown) and active cooling drastically reduces to risk of core damage. Light water reactors like those at Chernobyl use water as a coolant.
+This heat continues for some time after the chain reaction is stopped (for example following an emergency shutdown) and active cooling drastically reduces the risk of core damage. Light water reactors like those at Chernobyl use water as a coolant.
 
 Reactor nr. 4 at Chernobyl consisted of about 1600 individual fuel channels each of which required coolant flow of 28 thousand liters of water per hour.
 
@@ -52,18 +52,18 @@ The steam-turbine generator was to be run up to full speed to gain momentum.
 The steam supply for the steam-turbine generator was to be closed off.
 The steam-turbine generator performance was to be recorded to determine whether it could provide the bridging power for the coolant pumps until the emergency diesel generators could provide enough power to the cooling pumps.
 
-Depending on the design, a reactor passively increases or decreases its power output in the event of loss or void of coolant (by water boiling, for example). This is measured by the coolant void coefficient. Most modern nuclear power plants have a negative void coefficient, indicating that as water turns to steam, power instantly decreases. Unfortunately the Russian light water reactor has a positive void coefficient. Not only that, but it has the largest positive void coefficient of reactivity of any reactor operating commercially in the world.
+Depending on the design, a reactor passively increases or decreases its power output in the event of loss or void of coolant (by water boiling, for example). This is measured by the coolant void coefficient. Most modern nuclear power plants have a negative void coefficient, indicating that as water turns to steam, power instantly decreases. Unfortunately the Soviet light water reactor has a positive void coefficient. Not only that, but it has the largest positive void coefficient of reactivity of any reactor operating commercially in the world.
 
 An output of 700 MW was reached at 00:05 on April 26th.
 
-Now it is important to know that Xenon-135 is the most powerful neutron-absorbing element know to mankind with a significant effect on nuclear reactor operation. 
+Now it is important to know that Xenon-135 is the most powerful neutron-absorbing element (isotope) known to mankind with a significant effect on nuclear reactor operation. 
 
 Under normal operation the reactor would create Iodine-135 as a fission byproduct. Iodine-135 then decays into Xenon-135 and then immediately turns it into normal Xenon-136 by absorbing neutrons from the ongoing chain reaction.
 But when the reactor power was lowered, previously produced high quantities of Iodine-135 decayed into Xenon-135 faster than the reactor could burn it off. 
 
 So core power continued to decrease without further operator action - a process known as reactor poisoning. 
 
-As the reactor dropped way below the planned power output of 700 MW to approximately 500 MW, a young engineer by the name of Leonid Toptunov with only three month on the job, mistakenly inserted the reaction control rods too far. This combination of factors put the reactor into an unintended near-shutdown state, with a power output of 30 MW thermal or less.
+As the reactor dropped way below the planned power output of 700 MW to approximately 500 MW, a young engineer by the name of Leonid Toptunov with only three months on the job, mistakenly inserted the reaction control rods too far. This combination of factors put the reactor into an unintended near-shutdown state, with a power output of 30 MW thermal or less.
 
 The reactor was now producing 5 percent of the minimum initial power level established as safe for the test.
 
@@ -92,7 +92,7 @@ As the momentum of the turbine generator decreased, so did the power it produced
 
 The test had failed again. The good news is, reactor nr. 4 soon would not need an emergency core cooling system… The reactor was about to disassemble itself.
 
-Now we remember what was written above: Russian light water reactors have a positive void coefficient. This is super negative in case of a disaster because it means the reactor passively increases its power output in the event of loss of coolant. For example if the coolant is boiled into steam.
+Now we remember what was written above: Soviet RBMK light water reactors have a positive void coefficient. This is super negative in case of a disaster because it means the reactor passively increases its power output in the event of loss of coolant. For example if the coolant is boiled into steam.
 
 You can see the problem right? Low water flow increased the heat of the reactor core. This turned more water into steam, which reduced neutron absorption, which increased nuclear reaction, which increased the heat of the reactor core… Yes, oh crap!
 
@@ -109,11 +109,11 @@ So a few seconds into the emergency shutdown, a power spike occurred and the cor
 
 At this point in time most instruments stopped registering events. Much of what we know about what happened next was only discovered as a result of mathematical simulation. The reactor power spike caused a dramatic, exponential increase in fuel temperature and steam pressure. This caused the fuel cladding to fail, releasing the nuclear fuel elements into the coolant and rupturing the channels in which these elements were located.
 
-Then, according to some estimations, the reactor jumped to around 30.000 Megawatts thermal, ten times the normal operational output. The power output control panel was later discovered. Frozen at 33,000 Megawatts.
+Then, according to some estimations, the reactor jumped to around 30,000 Megawatts thermal, ten times the normal operational output. The power output control panel was later discovered. Frozen at 33,000 Megawatts.
 
-Water can be powerful. In supercritical reactor nr. 4 the water flashed into steam so fast it created a force that blew the 1000 ton upper plate of the reactor casing through the concrete roof of the reactor building like it was piece of paper.
+Water can be powerful. In prompt supercritical reactor nr. 4 the water flashed into steam so fast it created a force that blew the 2000 ton upper plate of the reactor casing through the concrete roof of the reactor building like it was a piece of paper.
 
-A second, even more powerful, nuclear explosion, occurred about two or three seconds after the first, when, according to one theory, the molten core formed a sludge and became supercritical. This explosion created 40 billion joules of energy, compromising the rest of the reactor containment vessel and ejecting hot lumps of graphite moderator all over the place. What is graphite? It is crystalline carbon! So guess what happened when it got in contact with air. Correct. It immediately caught fire and burned for two weeks, creating radioactive smoke and the biggest radioactive fallout in history.
+A second, even more powerful, nuclear explosion, occurred about two or three seconds after the first, when, according to one theory, the molten core formed a sludge and became prompt supercritical. This explosion created 40 billion joules of energy, compromising the rest of the reactor containment vessel and ejecting hot lumps of graphite moderator all over the place. What is graphite? It is crystalline carbon! So guess what happened when it got in contact with air. Correct. It immediately caught fire and burned for two weeks, creating radioactive smoke and the biggest radioactive fallout in history.
 
 The fire was eventually extinguished two weeks later, on May 10th, by a combined effort of helicopters dropping over 5000 metric tons of sand, lead, clay and neutron-absorbing boron onto the burning reactor and injection of liquid nitrogen. It is now known that virtually none of the neutron absorbers reached the core. 
 
@@ -131,4 +131,4 @@ We arrived there at 10 or 15 minutes to two in the morning.... We saw graphite s
 
 We didn't know much about radiation. Even those who worked there had no idea. There was no water left in the trucks. Misha filled a cistern and we aimed the water at the top. Then those boys who died went up to the roof – Vashchik, Kolya and others, and Volodya Pravik.... They went up the ladder ... and I never saw them again.
 
-Over the coming years 350.000 residents of the surrounding areas would be relocated.
+Over the coming years 350,000 residents of the surrounding areas would be relocated.
