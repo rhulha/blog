@@ -1,0 +1,134 @@
+The Chernobyl Disaster
+
+
+First let’s start with some basics:
+
+Reactor nuclear fission is the split of a large atom into smaller ones using neutrons.
+This releases a very large amount of energy and new neutrons.
+A nuclear chain reaction occurs when one single nuclear fission causes an average of one or more subsequent nuclear fissions.
+Nuclear power plants use the reaction energy to turn water into steam and the steam makes generators spin and they then generate power for everyone to use.
+Water needs to be pumped into the reactor not only to create steam but also to cool the radioactive material and keep it from exploding.
+Nuclear reaction is controlled by control rods which increase or decrease the fission reaction.
+
+Construction for the first of four light water graphite moderated reactors for the Chernobyl nuclear power plant began in August 1972.
+
+Unit 4 first reached criticality in September 1983. It was connected to the grid in December 1983.
+
+Each reactor was capable of producing 3.2 Gigawatts of thermal power which turn into 1 Gigawatt of electrical power.
+
+Reactor Nr. 4 was a good little reactor and did its job admirably for 2½ years.
+
+However there was one little problem... 
+
+In normal operation a significant fraction of the power from a nuclear reactor is derived not only from fission but also from the decay heat.
+This heat continues for some time after the chain reaction is stopped (for example following an emergency shutdown) and active cooling drastically reduces to risk of core damage. Light water reactors like those at Chernobyl use water as a coolant.
+
+Reactor nr. 4 at Chernobyl consisted of about 1600 individual fuel channels each of which required coolant flow of 28 thousand liters of water per hour.
+
+That’s 45 million liters of water per hour per reactor.
+
+In the extremely unlikely case of a complete external electrical power loss happening at the same time as an emergency shutdown of the nuclear reactor the water pumps cooling the reactor core would be without power for 60 seconds.
+
+This was the time the three backup diesel generators needed to power up and reach the 5.5 Megawatts output required to run one main cooling water pump.
+
+Now this was pretty bad, so the engineers at the power plant came up with an idea: Maybe they could use the rotational energy of the winding down turbine generators to bridge the electrical gap?
+
+Analysis indicated that this residual momentum could be sufficient to run the coolant pumps until the diesel generators could take over.
+
+The engineers tested this in 1982.
+And in 1984.
+And in 1985.
+It failed each time.
+
+But the engineers wouldn't give up.
+They would test it a fourth time.
+The test was scheduled for the 25th of April 1986.
+
+Everything was ready but just when the test was about to begin another power plant had a power grid outage. The test had to be postponed so that there was enough electricity for the country. The other power plant eventually fixed their issue and the test could continue just before midnight.
+
+The experimental procedure was intended to run as follows:
+The reactor was to be running at a low power level, between 700 MW and 800 MW thermal.
+The steam-turbine generator was to be run up to full speed to gain momentum.
+The steam supply for the steam-turbine generator was to be closed off.
+The steam-turbine generator performance was to be recorded to determine whether it could provide the bridging power for the coolant pumps until the emergency diesel generators could provide enough power to the cooling pumps.
+
+Depending on the design, a reactor passively increases or decreases its power output in the event of loss or void of coolant (by water boiling, for example). This is measured by the coolant void coefficient. Most modern nuclear power plants have a negative void coefficient, indicating that as water turns to steam, power instantly decreases. Unfortunately the Russian light water reactor has a positive void coefficient. Not only that, but it has the largest positive void coefficient of reactivity of any reactor operating commercially in the world.
+
+An output of 700 MW was reached at 00:05 on April 26th.
+
+Now it is important to know that Xenon-135 is the most powerful neutron-absorbing element know to mankind with a significant effect on nuclear reactor operation. 
+
+Under normal operation the reactor would create Iodine-135 as a fission byproduct. Iodine-135 then decays into Xenon-135 and then immediately turns it into normal Xenon-136 by absorbing neutrons from the ongoing chain reaction.
+But when the reactor power was lowered, previously produced high quantities of Iodine-135 decayed into Xenon-135 faster than the reactor could burn it off. 
+
+So core power continued to decrease without further operator action - a process known as reactor poisoning. 
+
+As the reactor dropped way below the planned power output of 700 MW to approximately 500 MW, a young engineer by the name of Leonid Toptunov with only three month on the job, mistakenly inserted the reaction control rods too far. This combination of factors put the reactor into an unintended near-shutdown state, with a power output of 30 MW thermal or less.
+
+The reactor was now producing 5 percent of the minimum initial power level established as safe for the test.
+
+Control-room personnel decided to restore power by disabling the automatic system governing the control rods and manually extracting the majority of the reactor control rods to their upper limits. Several minutes elapsed between their extraction and the point that the power output began to increase and subsequently stabilize at 160–200 MWt, a much smaller value than the planned 700 MWt.
+
+As part of the test plan, extra water pumps were activated at 01:05 on April 26th, increasing the water flow. The increased flow rate through the reactor produced an increase in water temperature at the reactor water inlet, because the coolant no longer had sufficient time to release its heat in the turbine and cooling towers. This was no problem in itself, but it did reduce the safety margin.
+
+Now there is another important piece of information:
+
+Water weakly absorbs neutrons and it does so better in liquid form than in steam form due to its higher density.
+
+The extra water flow lowered the overall core temperature and reduced the steam in the core and in the steam/water separators. This decreased the reactor power again.
+
+At 01:19 the control room received repeated emergency signals regarding the low levels of steam in the steam/water separator drums and from the neutron power controller due to unstable nuclear reaction.
+
+The crew responded by turning off two of the coolant water pumps and by removing almost all reactor control rods in an effort to increase steam pressure.
+
+All these actions led to an extremely unstable reactor configuration that was outside the safe operating envelope established by the designers.
+
+But the crew plowed on. The test was too important!
+
+At 1:23:04 the second part of the test began. Four of the eight main circulating pumps were active. The steam to the turbines was shut off, beginning a run-down of the turbine generators. 
+
+The diesel generators were started and were expected to have completely picked up power needs by 01:23:43. In the interim the power for the water pumps was to be supplied by the turbine generator as it coasted down. This was the big test.
+As the momentum of the turbine generator decreased, so did the power it produced for the pumps. Unfortunately the water flow rate decreased more than the crew was hoping for, leading to increased formation of steam in the reactor core.
+
+The test had failed again. The good news is, reactor nr. 4 soon would not need an emergency core cooling system… The reactor was about to disassemble itself.
+
+Now we remember what was written above: Russian light water reactors have a positive void coefficient. This is super negative in case of a disaster because it means the reactor passively increases its power output in the event of loss of coolant. For example if the coolant is boiled into steam.
+
+You can see the problem right? Low water flow increased the heat of the reactor core. This turned more water into steam, which reduced neutron absorption, which increased nuclear reaction, which increased the heat of the reactor core… Yes, oh crap!
+
+At 1:23:40 button nr. 5 of the reactor emergency protection system was pressed and an emergency shutdown of the reactor was initiated. This engaged the drive mechanism on all control rods to fully insert them, including the manual control rods that had been withdrawn earlier. Whether pressing the button was done as an emergency measure in response to rising temperatures, or simply as part of the test is not known since no direct witness survived what happened next.
+
+When button nr. 5 was pressed, the insertion of control rods into the reactor core began. The control rod insertion mechanism moved the rods at 0.4 m/s, so the rods took 18 to 20 seconds to travel the full height of the core. Now that seems slow but the real problem was the design of the reactor control rods, each of which had a graphite neutron moderator rod attached at the end to boost reactor output by displacing water when the control rod section had been fully withdrawn from the reactor. You see, the reactor designers wanted to be energy efficient smarty pants. 
+
+Thus, when a control rod was at maximum extraction, a neutron-moderating graphite extension was centered in the core with a 1.25 m column of water above and below it. Therefore, injecting a control rod downward into the reactor during an emergency shutdown initially displaced neutron-absorbing water in the lower portion of the reactor with neutron-moderating graphite on its way out of the core. As a result, an emergency shutdown in these kind of reactors 
+initially increases the reaction rate in the lower part of the core as the graphite section of rods moving out of the reactor displaces water coolant.
+
+What a great idea, right boys and girls ?
+
+So a few seconds into the emergency shutdown, a power spike occurred and the core overheated causing some of the nuclear fuel rods to fracture, jamming the control rods in at one-third insertion, with the graphite displacers still in the lower part of the core. Within three seconds the reactor output rose above 530 Megawatts.
+
+At this point in time most instruments stopped registering events. Much of what we know about what happened next was only discovered as a result of mathematical simulation. The reactor power spike caused a dramatic, exponential increase in fuel temperature and steam pressure. This caused the fuel cladding to fail, releasing the nuclear fuel elements into the coolant and rupturing the channels in which these elements were located.
+
+Then, according to some estimations, the reactor jumped to around 30.000 Megawatts thermal, ten times the normal operational output. The power output control panel was later discovered. Frozen at 33,000 Megawatts.
+
+Water can be powerful. In supercritical reactor nr. 4 the water flashed into steam so fast it created a force that blew the 1000 ton upper plate of the reactor casing through the concrete roof of the reactor building like it was piece of paper.
+
+A second, even more powerful, nuclear explosion, occurred about two or three seconds after the first, when, according to one theory, the molten core formed a sludge and became supercritical. This explosion created 40 billion joules of energy, compromising the rest of the reactor containment vessel and ejecting hot lumps of graphite moderator all over the place. What is graphite? It is crystalline carbon! So guess what happened when it got in contact with air. Correct. It immediately caught fire and burned for two weeks, creating radioactive smoke and the biggest radioactive fallout in history.
+
+The fire was eventually extinguished two weeks later, on May 10th, by a combined effort of helicopters dropping over 5000 metric tons of sand, lead, clay and neutron-absorbing boron onto the burning reactor and injection of liquid nitrogen. It is now known that virtually none of the neutron absorbers reached the core. 
+
+But the crazy does not stop yet.
+
+Contrary to safety regulations, bitumen, a combustible material, had been used in the construction of the roofs of the reactor buildings and turbine halls. Ejected material ignited at least five fires on the roof of the adjacent reactor 3, which was still operating. 
+
+Shortly after the accident, firefighters arrived to try to extinguish the fires. First on the scene was a Chernobyl Power Station firefighter brigade under the command of Lieutenant Volodymyr Pravik, who died in May 1986 of acute radiation sickness. They were not told how dangerously radioactive the smoke and the debris were, and may not even have known that the accident was anything more than a regular electrical fire: "We didn't know it was the reactor. No one had told us."
+
+The radiation levels in the worst-hit areas of the reactor building have been estimated to be 5.6 roentgens per second, equivalent to more than 20,000 roentgens per hour. A lethal dose is around 500 roentgens over 5 hours, so in some areas, unprotected workers received fatal doses in less than two minutes.
+
+Grigorii Khmel, the driver of one of the fire engines, later described what happened:
+
+We arrived there at 10 or 15 minutes to two in the morning.... We saw graphite scattered about. Misha asked: "Is that graphite?" I kicked it away. But one of the fighters on the other truck picked it up. "It's hot," he said. The pieces of graphite were of different sizes, some big, some small, enough to pick them up...
+
+We didn't know much about radiation. Even those who worked there had no idea. There was no water left in the trucks. Misha filled a cistern and we aimed the water at the top. Then those boys who died went up to the roof – Vashchik, Kolya and others, and Volodya Pravik.... They went up the ladder ... and I never saw them again.
+
+Over the coming years 350.000 residents of the surrounding areas would be relocated.
